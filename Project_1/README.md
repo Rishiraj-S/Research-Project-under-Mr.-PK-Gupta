@@ -104,8 +104,12 @@ env
 SERPAPI_KEY=your_key_here
 GROQ_API_KEY=your_key_here
 ```
-### Running the Dashboard
+### Running the scrapers and then the Dashboard
 ```bash
+python google_jobs_scraper.py
+python google_news_scraper.py
+python seek_jobs_scraper.py
+python webpage_scraper.py
 streamlit run app.py
 ```
 ## 📈 Future Enhancements
