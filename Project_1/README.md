@@ -5,8 +5,6 @@
 
 *A data-driven platform for tracking Generative AI initiatives, competitor analysis, and partnership opportunities for Dell*
 
-![Landing Page]([landing_page.png](https://github.com/Rishiraj-S/Research-Project-under-Mr.-PK-Gupta/blob/main/img/landing_page.png))
-
 ## 📌 Overview
 
 This project automates the collection and analysis of **Generative AI (GenAI)** initiatives from **7 major IT companies** (TCS, Infosys, Wipro, LTIMindtree, HCLTech, Tech Mahindra, and Cognizant) across **India and Australia**, providing Dell with actionable insights on:
