@@ -5,7 +5,7 @@
 
 *A data-driven platform for tracking Generative AI initiatives, competitor analysis, and partnership opportunities for Dell*
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=GenAI+Market+Intelligence+Dashboard)
+![Dashboard Screenshot]([https://via.placeholder.com/800x400?text=GenAI+Market+Intelligence+Dashboard](https://github.com/Rishiraj-S/Research-Project-under-Mr.-PK-Gupta/blob/main/img/landing_page.png))
 
 ## 📌 Overview
 
